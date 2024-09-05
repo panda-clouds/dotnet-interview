@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w30ZJy8H7z8emWvegqKeRee9JDwp1T9+6RKUbPdX4VU=",
+  "Source": "dotnet-interview",
+  "BasePath": "_content/dotnet-interview",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
